@@ -1,0 +1,30 @@
+{
+  "name": "welcome-to-darknet",
+  "version": "1.0.0",
+  "description": "PGP Verified links to darknet market and darknet service links on the (Tor) Onion Network.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarpetra/welcome-to-darknet.git"
+  },
+  "keywords": [
+    "darknet",
+    "onion",
+    "hidden-service",
+    "tor",
+    "dark-web"
+  ],
+  "author": "DarknetList <tarpetra@gmail.com>",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/tarpetra/welcome-to-darknet/issues"
+  },
+  "homepage": "https://github.com/tarpetra/welcome-to-darknet#readme",
+  "devDependencies": {
+    "generator-awesome-list": "^2.0.2",
+    "yo": "^4.3.0"
+  }
+}

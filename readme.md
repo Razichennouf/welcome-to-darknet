@@ -14,26 +14,6 @@
 
 </small>
 
-
-## Contents
-
-
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
-
-<!-- code_chunk_output -->
-
-- [Welcome to Darknet](#welcome-to-darknet)
-  - [Contents](#contents)
-  - [Marketplaces](#marketplaces)
-    - [Established](#established)
-    - [New markets](#new-markets)
-  - [Forums](#forums)
-  - [Search engines](#search-engines)
-  - [Email Providers](#email-providers)
-  - [Contribute](#contribute)
-
-<!-- /code_chunk_output -->
-
 ## Marketplaces
 
 ### Established

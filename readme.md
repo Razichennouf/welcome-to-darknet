@@ -20,28 +20,22 @@
 
 *Established Darknet markets that have been operating for a while*
 
-- [AlphaBay](http://alphabay522szl32u4ci5e3iokdsyth56ei7rwngr2wm7i5jo54j2eid.onion) - `http://alphabay522szl32u4ci5e3iokdsyth56ei7rwngr2wm7i5jo54j2eid.onion`
-- [Monopoly Market](http://monopolydc6hvkh425ov6xolmgx62q2tgown55zvhpngh75tz5xkzfyd.onion) - `http://monopolydc6hvkh425ov6xolmgx62q2tgown55zvhpngh75tz5xkzfyd.onion`
-- [Dark0de](http://darkoddrkj3gqz7ke7nyjfkh7o72hlvr44uz5zl2xrapna4tribuorqd.onion) - `http://darkoddrkj3gqz7ke7nyjfkh7o72hlvr44uz5zl2xrapna4tribuorqd.onion`
-- [Versus Market](http://pqqmr3p3tppwqvvapi6fa7jowrehgd36ct6lzr26qqormaqvh6gt4jyd.onion) - `http://pqqmr3p3tppwqvvapi6fa7jowrehgd36ct6lzr26qqormaqvh6gt4jyd.onion`
-- [ToRReZ Market](http://yxuy5oau7nugw4kpb4lclrqdbixp3wvc4iuiad23ebyp2q3gx7rtrgqd.onion) - `http://yxuy5oau7nugw4kpb4lclrqdbixp3wvc4iuiad23ebyp2q3gx7rtrgqd.onion`
-- [ASAP Market](http://ASAP2u4pvplnkzl7ecle45wajojnftja45wvovl3jrvhangeyq67ziid.onion) - `http://ASAP2u4pvplnkzl7ecle45wajojnftja45wvovl3jrvhangeyq67ziid.onion`
-- [Archetype Market](http://4pt4axjgzmm4ibmxplfiuvopxzf775e5bqseyllafcecryfthdupjwyd.onion) - `http://4pt4axjgzmm4ibmxplfiuvopxzf775e5bqseyllafcecryfthdupjwyd.onion`
-- [Vice City](http://vice2e3gr3pmaikukidllstulxvkb7a247gkguihzvyk3gqwdpolqead.onion) - `http://vice2e3gr3pmaikukidllstulxvkb7a247gkguihzvyk3gqwdpolqead.onion`
-- [Tor2Door](http://t2didmjqj7yqzlc44oiqmwr3u62xdg4pvzfrtxdy2wsewgrt2zelwhyd.onion) - `http://t2didmjqj7yqzlc44oiqmwr3u62xdg4pvzfrtxdy2wsewgrt2zelwhyd.onion`
-- [Revolution](http://2b4z3y7fq45kafqy4ygweaz5k4culbbwj6nwfvgdutltlxelurxhd6yd.onion) - `http://2b4z3y7fq45kafqy4ygweaz5k4culbbwj6nwfvgdutltlxelurxhd6yd.onion`
-- [Tor Market](http://rrlm2f22lpqgfhyydqkxxzv6snwo5qvc2krjt2q557l7z4te7fsvhbid.onion) - `http://rrlm2f22lpqgfhyydqkxxzv6snwo5qvc2krjt2q557l7z4te7fsvhbid.onion`
-- [Cartel Market](http://mgybzfrldjn5drzv537skh7kgwgbq45dwha67r4elda4vl7m6qul5xqd.onion) - `http://mgybzfrldjn5drzv537skh7kgwgbq45dwha67r4elda4vl7m6qul5xqd.onion`
-
-### New markets
-
-*New and upcoming markets*
-
-- [Bohemia](http://bohemiaobko4cecexkj5xmlaove6yn726dstp5wfw4pojjwp6762paqd.onion) - `http://bohemiaobko4cecexkj5xmlaove6yn726dstp5wfw4pojjwp6762paqd.onion`
+- [Incognito Market](http://incognizudojrh3z47tfudcqkuwayp6aeeiufjkccgvvt4jrjcbq3gyd.onion) - `http://incognizudojrh3z47tfudcqkuwayp6aeeiufjkccgvvt4jrjcbq3gyd`
+- [Nemesis Market](http://bo4z2ekesxllebpqijubxklnkehoobeu5q7qjdqzfh3hxitwo5fatrad.onion) - `http://bo4z2ekesxllebpqijubxklnkehoobeu5q7qjdqzfh3hxitwo5fatrad`
+- [Abacus Market](http://abacusxqw5uv7amzqazdbxo2nd57vaioblew6m25pbzznaf4ph6nh6ad.onion) - `http://abacusxqw5uv7amzqazdbxo2nd57vaioblew6m25pbzznaf4ph6nh6ad`
+- [Kingdom Market](http://kingdom45dj7wfumjwej2ztogtladxhpwkpifofyeruwgvq4qaltfhad.onion) - `http://kingdom45dj7wfumjwej2ztogtladxhpwkpifofyeruwgvq4qaltfhad`
+- [MGM Grand Market](http://duysanj4hc67rd2hkkrmngj66vj25kxhvafnp3qwrcjcyfgwwd4eeiid.onion) - `http://duysanj4hc67rd2hkkrmngj66vj25kxhvafnp3qwrcjcyfgwwd4eeiid`
+- [Ares Market](http://rj25tf2tbwt4no22slufc56weql2em2v2zkorklebk3qj6rbbr6bmoid.onion) - `http://rj25tf2tbwt4no22slufc56weql2em2v2zkorklebk3qj6rbbr6bmoid`
+- [Dark Matter Market](http://darkmatu4oxdnzpm7j2lohty35nboxdvxz4stfburupf3f4teg6vetyd.onion) - `http://darkmatu4oxdnzpm7j2lohty35nboxdvxz4stfburupf3f4teg6vetyd`
+- [We The North Market (Canada)](http://hn2paw7xhuadhegnbdbdmpap2g6vxjv7d22uhuzg4uz7thf7qbqqvkid.onion) - `http://hn2paw7xhuadhegnbdbdmpap2g6vxjv7d22uhuzg4uz7thf7qbqqvkid`
+- [Flugsvamp 4.0 (Sweden)](http://flugsvplodga6slsddquahf523xjst2an7umejwgrgbwuk7jd4mbotqd.onion) - `http://flugsvplodga6slsddquahf523xjst2an7umejwgrgbwuk7jd4mbotqd`
+- [Mega Market (Russia)](http://mega5cl42slffqduo64dopju3xxnuxbbzycir6vi3gzvhwd2iyilerad.onion) - `http://mega5cl42slffqduo64dopju3xxnuxbbzycir6vi3gzvhwd2iyilerad`
+- [BlackSprut Market (Russia)](http://btrhbfajwnzdfheibqqpnl2cp3lftwmde5dvlmeumbn6k5f36fxyi4ad.onion) - `http://btrhbfajwnzdfheibqqpnl2cp3lftwmde5dvlmeumbn6k5f36fxyi4ad`
+- [Ramp Market (Russia)](http://rampclunuztejmvknyklq3qdophzzccmejhsle5nzrfrwfdkq5vbnqid.onion) - `http://rampclunuztejmvknyklq3qdophzzccmejhsle5nzrfrwfdkq5vbnqid`
 
 ## Forums
 
-- [dread](http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion) - `http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion`
+- [Dread](http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion) - `http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion`
 - [EndChan](http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion) - `http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion`
 
 ## Search engines

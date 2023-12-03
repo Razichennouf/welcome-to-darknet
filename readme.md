@@ -32,7 +32,7 @@
 
 ### Non-English
 
-- [Mega Market (Russia)](http://mega5cl42slffqduo64dopju3xxnuxbbzycir6vi3gzvhwd2iyilerad.onion) - `http://mega5cl42slffqduo64dopju3xxnuxbbzycir6vi3gzvhwd2iyilerad.onion`
+- [Mega Market (Russia)](http://mega555smdaywpehj5kbrywjpzcrsiuzzkuya7p3sd2zmuc3xhv7i6yd.onion) - `http://mega555smdaywpehj5kbrywjpzcrsiuzzkuya7p3sd2zmuc3xhv7i6yd.onion`
 - [BlackSprut Market (Russia)](http://btrhbfajwnzdfheibqqpnl2cp3lftwmde5dvlmeumbn6k5f36fxyi4ad.onion) - `http://btrhbfajwnzdfheibqqpnl2cp3lftwmde5dvlmeumbn6k5f36fxyi4ad.onion`
 - [Ramp Market (Russia)](http://rampclunuztejmvknyklq3qdophzzccmejhsle5nzrfrwfdkq5vbnqid.onion) - `http://rampclunuztejmvknyklq3qdophzzccmejhsle5nzrfrwfdkq5vbnqid.onion`
 - [We The North Market (Canada)](http://hn2paw7xhuadhegnbdbdmpap2g6vxjv7d22uhuzg4uz7thf7qbqqvkid.onion) - `http://hn2paw7xhuadhegnbdbdmpap2g6vxjv7d22uhuzg4uz7thf7qbqqvkid.onion`

@@ -20,8 +20,8 @@
 
 *Established Darknet markets that have been operating for a while*
 
+- [Nemesis Market](http://zgcbvkvsbesmyji3naq6iuiajpgrcfcjmaue7jvtdtw3dqhrjk7phvqd.onion) - `http://zgcbvkvsbesmyji3naq6iuiajpgrcfcjmaue7jvtdtw3dqhrjk7phvqd.onion`
 - [Incognito Market](http://incognirftkvasqxfh2iess6cr5a243y72z3vbz75nvj2fx62a5ukpad.onion) - `http://incognirftkvasqxfh2iess6cr5a243y72z3vbz75nvj2fx62a5ukpad.onion`
-- [Nemesis Market](http://bo4z2ekesxllebpqijubxklnkehoobeu5q7qjdqzfh3hxitwo5fatrad.onion) - `http://bo4z2ekesxllebpqijubxklnkehoobeu5q7qjdqzfh3hxitwo5fatrad.onion`
 - [Abacus Market](http://abacusxqw5uv7amzqazdbxo2nd57vaioblew6m25pbzznaf4ph6nh6ad.onion) - `http://abacusxqw5uv7amzqazdbxo2nd57vaioblew6m25pbzznaf4ph6nh6ad.onion`
 - [Archetyp Market](http://arche442iyjshuhzxgm2crkhoswvshdx2bko5vkvvbnkoeo3fr6liuqd.onion) - `http://arche442iyjshuhzxgm2crkhoswvshdx2bko5vkvvbnkoeo3fr6liuqd.onion`
 - [Bohemia Market](http://qdyakais73binprxpeeslj7d6tzp5z7kzr33honqexkix76x46itpwad.onion) - `http://qdyakais73binprxpeeslj7d6tzp5z7kzr33honqexkix76x46itpwad.onion`

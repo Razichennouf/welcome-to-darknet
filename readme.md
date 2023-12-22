@@ -24,7 +24,6 @@
 - [Nemesis Market](http://zgcbvkvsbesmyji3naq6iuiajpgrcfcjmaue7jvtdtw3dqhrjk7phvqd.onion) - `http://zgcbvkvsbesmyji3naq6iuiajpgrcfcjmaue7jvtdtw3dqhrjk7phvqd.onion`
 - [Abacus Market](http://abacusxqw5uv7amzqazdbxo2nd57vaioblew6m25pbzznaf4ph6nh6ad.onion) - `http://abacusxqw5uv7amzqazdbxo2nd57vaioblew6m25pbzznaf4ph6nh6ad.onion`
 - [Bohemia Market](http://qdyakais73binprxpeeslj7d6tzp5z7kzr33honqexkix76x46itpwad.onion) - `http://qdyakais73binprxpeeslj7d6tzp5z7kzr33honqexkix76x46itpwad.onion`
-- [Archetyp Market](http://arche442iyjshuhzxgm2crkhoswvshdx2bko5vkvvbnkoeo3fr6liuqd.onion) - `http://arche442iyjshuhzxgm2crkhoswvshdx2bko5vkvvbnkoeo3fr6liuqd.onion`
 - [Kingdom Market](http://kingdom45dj7wfumjwej2ztogtladxhpwkpifofyeruwgvq4qaltfhad.onion) - `http://kingdom45dj7wfumjwej2ztogtladxhpwkpifofyeruwgvq4qaltfhad.onion`
 - [MGM Grand Market](http://duysanj4hc67rd2hkkrmngj66vj25kxhvafnp3qwrcjcyfgwwd4eeiid.onion) - `http://duysanj4hc67rd2hkkrmngj66vj25kxhvafnp3qwrcjcyfgwwd4eeiid.onion`
 - [Ares Market](http://rj25tf2tbwt4no22slufc56weql2em2v2zkorklebk3qj6rbbr6bmoid.onion) - `http://rj25tf2tbwt4no22slufc56weql2em2v2zkorklebk3qj6rbbr6bmoid.onion`

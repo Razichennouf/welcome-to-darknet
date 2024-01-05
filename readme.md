@@ -23,11 +23,13 @@
 - [Incognito Market](http://incognirftkvasqxfh2iess6cr5a243y72z3vbz75nvj2fx62a5ukpad.onion) - `http://incognirftkvasqxfh2iess6cr5a243y72z3vbz75nvj2fx62a5ukpad.onion`
 - [Nemesis Market](http://zgcbvkvsbesmyji3naq6iuiajpgrcfcjmaue7jvtdtw3dqhrjk7phvqd.onion) - `http://zgcbvkvsbesmyji3naq6iuiajpgrcfcjmaue7jvtdtw3dqhrjk7phvqd.onion`
 - [Abacus Market](http://abacusxqw5uv7amzqazdbxo2nd57vaioblew6m25pbzznaf4ph6nh6ad.onion) - `http://abacusxqw5uv7amzqazdbxo2nd57vaioblew6m25pbzznaf4ph6nh6ad.onion`
+- [Cypher Market](http://6c5qaapy6ejxcu55u3zsti2yqrkhpddo4fyapgtng2b3bpv6jny2btqd.onion) - `http://6c5qaapy6ejxcu55u3zsti2yqrkhpddo4fyapgtng2b3bpv6jny2btqd.onion`
+- [MGM Grand Market](http://duysanj4hc67rd2hkkrmngj66vj25kxhvafnp3qwrcjcyfgwwd4eeiid.onion) - `http://duysanj4hc67rd2hkkrmngj66vj25kxhvafnp3qwrcjcyfgwwd4eeiid.onion`
+- [Drugula Market](http://drugulkauahb27ehfilah52rusw3n3vffe2big6enjkhphn2wv6qw6ad.onion) - `http://drugulkauahb27ehfilah52rusw3n3vffe2big6enjkhphn2wv6qw6ad.onion`
+- [Dark Matter Market](http://darkmatu4oxdnzpm7j2lohty35nboxdvxz4stfburupf3f4teg6vetyd.onion) - `http://darkmatu4oxdnzpm7j2lohty35nboxdvxz4stfburupf3f4teg6vetyd.onion`
 - [Bohemia Market](http://qdyakais73binprxpeeslj7d6tzp5z7kzr33honqexkix76x46itpwad.onion) - `http://qdyakais73binprxpeeslj7d6tzp5z7kzr33honqexkix76x46itpwad.onion`
 - [Kingdom Market](http://kingdom45dj7wfumjwej2ztogtladxhpwkpifofyeruwgvq4qaltfhad.onion) - `http://kingdom45dj7wfumjwej2ztogtladxhpwkpifofyeruwgvq4qaltfhad.onion`
-- [MGM Grand Market](http://duysanj4hc67rd2hkkrmngj66vj25kxhvafnp3qwrcjcyfgwwd4eeiid.onion) - `http://duysanj4hc67rd2hkkrmngj66vj25kxhvafnp3qwrcjcyfgwwd4eeiid.onion`
 - [Ares Market](http://rj25tf2tbwt4no22slufc56weql2em2v2zkorklebk3qj6rbbr6bmoid.onion) - `http://rj25tf2tbwt4no22slufc56weql2em2v2zkorklebk3qj6rbbr6bmoid.onion`
-- [Dark Matter Market](http://darkmatu4oxdnzpm7j2lohty35nboxdvxz4stfburupf3f4teg6vetyd.onion) - `http://darkmatu4oxdnzpm7j2lohty35nboxdvxz4stfburupf3f4teg6vetyd.onion`
 - [Go Fish Market](http://gofish4dbb4iofcevmcykeox6jbdu43ee2laagspkyhumvvobtwf2aad.onion) - `http://gofish4dbb4iofcevmcykeox6jbdu43ee2laagspkyhumvvobtwf2aad.onion`
 - [We The North Market (Canada)](http://hn2paw7xhuadhegnbdbdmpap2g6vxjv7d22uhuzg4uz7thf7qbqqvkid.onion) - `http://hn2paw7xhuadhegnbdbdmpap2g6vxjv7d22uhuzg4uz7thf7qbqqvkid.onion`
 - [Flugsvamp 4.0 (Sweden)](http://flugsvplodga6slsddquahf523xjst2an7umejwgrgbwuk7jd4mbotqd.onion) - `http://flugsvplodga6slsddquahf523xjst2an7umejwgrgbwuk7jd4mbotqd.onion`

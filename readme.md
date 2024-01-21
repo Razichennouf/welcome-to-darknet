@@ -39,8 +39,8 @@
 
 ## Stores
 
-- [GammaGoblin](http://hszyoqnysrl7lpyfms2o5xonhelz2qrz36zrogi2jhnzvpxdzbvzimqd.onion) - `http://hszyoqnysrl7lpyfms2o5xonhelz2qrz36zrogi2jhnzvpxdzbvzimqd.onion`
-- [HeinekenExpress](http://vyzjtg3peh3rspo67i55pd644o4vh5ygggqhz25c7w3qwfqwuacifoyd.onion) - `http://vyzjtg3peh3rspo67i55pd644o4vh5ygggqhz25c7w3qwfqwuacifoyd.onion`
+- [GammaGoblin](http://ujhwc2qcu5r6rwerjvf4yostrmqq5epwlfvyfi25pp376jo6ktccnbid.onion) - `http://ujhwc2qcu5r6rwerjvf4yostrmqq5epwlfvyfi25pp376jo6ktccnbid.onion`
+- [HeinekenExpress](http://heinekeqbzrhusz5d36rhew32ayfaqmbhpifkxfrwt6gq655ebihx5yd.onion) - `http://heinekeqbzrhusz5d36rhew32ayfaqmbhpifkxfrwt6gq655ebihx5yd.onion`
 - [SmokersCo](http://smokerbae4sv2bywadc7thltca6o63pqe7nonglextdkvm4yfrdp6oqd.onion) - `http://smokerbae4sv2bywadc7thltca6o63pqe7nonglextdkvm4yfrdp6oqd.onion`
 - [Roi Businesss](http://roibu2pmnuvw4l62sses6skiujhxubwb6cbyjtqvohynqig5upgqvjad.onion) - `http://roibu2pmnuvw4l62sses6skiujhxubwb6cbyjtqvohynqig5upgqvjad.onion`
 - [Tribe Seuss](http://eisrgs2gltxr3v6zwby3louej4ive5e2nj4e5weton5sdzvyut7vz3qd.onion) - `http://eisrgs2gltxr3v6zwby3louej4ive5e2nj4e5weton5sdzvyut7vz3qd.onion`

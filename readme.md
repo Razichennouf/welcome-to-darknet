@@ -32,6 +32,8 @@
 
 - [DrugHub Market](http://drughub3uuejhj5c7hqrd2fjh7k5y3m6ksg3s3u2upy4byzqmgr7glid.onion) - `http://drughub3uuejhj5c7hqrd2fjh7k5y3m6ksg3s3u2upy4byzqmgr7glid.onion`
 
+- [Ares Market](http://rj25tf2tbwt4no22slufc56weql2em2v2zkorklebk3qj6rbbr6bmoid.onion) - `http://rj25tf2tbwt4no22slufc56weql2em2v2zkorklebk3qj6rbbr6bmoid.onion`
+
 - [Cypher Market](http://6c5qaapy6ejxcu55u3zsti2yqrkhpddo4fyapgtng2b3bpv6jny2btqd.onion) - `http://6c5qaapy6ejxcu55u3zsti2yqrkhpddo4fyapgtng2b3bpv6jny2btqd.onion`
 
 - [Drugula Market](http://drugulkauahb27ehfilah52rusw3n3vffe2big6enjkhphn2wv6qw6ad.onion) - `http://drugulkauahb27ehfilah52rusw3n3vffe2big6enjkhphn2wv6qw6ad.onion`
@@ -41,8 +43,6 @@
 - [Bohemia Market](http://qdyakais73binprxpeeslj7d6tzp5z7kzr33honqexkix76x46itpwad.onion) - `http://qdyakais73binprxpeeslj7d6tzp5z7kzr33honqexkix76x46itpwad.onion`
 
 - [Kingdom Market](http://kingdom45dj7wfumjwej2ztogtladxhpwkpifofyeruwgvq4qaltfhad.onion) - `http://kingdom45dj7wfumjwej2ztogtladxhpwkpifofyeruwgvq4qaltfhad.onion`
-
-- [Ares Market](http://rj25tf2tbwt4no22slufc56weql2em2v2zkorklebk3qj6rbbr6bmoid.onion) - `http://rj25tf2tbwt4no22slufc56weql2em2v2zkorklebk3qj6rbbr6bmoid.onion`
 
 - [Go Fish Market](http://gofish4dbb4iofcevmcykeox6jbdu43ee2laagspkyhumvvobtwf2aad.onion) - `http://gofish4dbb4iofcevmcykeox6jbdu43ee2laagspkyhumvvobtwf2aad.onion`
 

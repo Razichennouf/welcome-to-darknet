@@ -26,11 +26,13 @@
 
 - [Abacus Market](http://abacusxqw5uv7amzqazdbxo2nd57vaioblew6m25pbzznaf4ph6nh6ad.onion) - `http://abacusxqw5uv7amzqazdbxo2nd57vaioblew6m25pbzznaf4ph6nh6ad.onion`
 
+- [Kerberos Market](http://kerberoispgarcfojevke3m6pcz62i5vq7ftjpyea6tnrpv7vu4anjid.onion) - `http://kerberoispgarcfojevke3m6pcz62i5vq7ftjpyea6tnrpv7vu4anjid.onion`
+
+- [MGM Grand Market](http://duysanj4hc67rd2hkkrmngj66vj25kxhvafnp3qwrcjcyfgwwd4eeiid.onion) - `http://duysanj4hc67rd2hkkrmngj66vj25kxhvafnp3qwrcjcyfgwwd4eeiid.onion`
+
 - [DrugHub Market](http://drughub3uuejhj5c7hqrd2fjh7k5y3m6ksg3s3u2upy4byzqmgr7glid.onion) - `http://drughub3uuejhj5c7hqrd2fjh7k5y3m6ksg3s3u2upy4byzqmgr7glid.onion`
 
 - [Cypher Market](http://6c5qaapy6ejxcu55u3zsti2yqrkhpddo4fyapgtng2b3bpv6jny2btqd.onion) - `http://6c5qaapy6ejxcu55u3zsti2yqrkhpddo4fyapgtng2b3bpv6jny2btqd.onion`
-
-- [MGM Grand Market](http://duysanj4hc67rd2hkkrmngj66vj25kxhvafnp3qwrcjcyfgwwd4eeiid.onion) - `http://duysanj4hc67rd2hkkrmngj66vj25kxhvafnp3qwrcjcyfgwwd4eeiid.onion`
 
 - [Drugula Market](http://drugulkauahb27ehfilah52rusw3n3vffe2big6enjkhphn2wv6qw6ad.onion) - `http://drugulkauahb27ehfilah52rusw3n3vffe2big6enjkhphn2wv6qw6ad.onion`
 

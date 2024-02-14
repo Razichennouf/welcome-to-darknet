@@ -16,11 +16,11 @@
 
 ## Crypto Exchanges (BTC TO XMR)
 
-- [Majestic Bank](http://vyzjtg3peh3rspo67i55pd644o4vh5ygggqhz25c7w3qwfqwuacifoyd.onion) - `http://vyzjtg3peh3rspo67i55pd644o4vh5ygggqhz25c7w3qwfqwuacifoyd.onion`
-
 - [Exch Exchange](http://hszyoqnysrl7lpyfms2o5xonhelz2qrz36zrogi2jhnzvpxdzbvzimqd.onion) - `http://hszyoqnysrl7lpyfms2o5xonhelz2qrz36zrogi2jhnzvpxdzbvzimqd.onion`
 
 - [Infinity Exchanger](http://exchanger.dhme3vnfeleniirt5nxuhpmjsfq5srp44uyq2jyihhnrxus7ibfqhiqd.onion) - `http://exchanger.dhme3vnfeleniirt5nxuhpmjsfq5srp44uyq2jyihhnrxus7ibfqhiqd.onion`
+
+- [Majestic Bank](http://vyzjtg3peh3rspo67i55pd644o4vh5ygggqhz25c7w3qwfqwuacifoyd.onion) - `http://vyzjtg3peh3rspo67i55pd644o4vh5ygggqhz25c7w3qwfqwuacifoyd.onion`
 
 ## Marketplaces
 

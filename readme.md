@@ -34,6 +34,8 @@
 
 - [Abacus Market](http://abacusxqw5uv7amzqazdbxo2nd57vaioblew6m25pbzznaf4ph6nh6ad.onion) - `http://abacusxqw5uv7amzqazdbxo2nd57vaioblew6m25pbzznaf4ph6nh6ad.onion`
 
+- [Archetyp Market](http://arche442iyjshuhzxgm2crkhoswvshdx2bko5vkvvbnkoeo3fr6liuqd.onion) - `http://arche442iyjshuhzxgm2crkhoswvshdx2bko5vkvvbnkoeo3fr6liuqd.onion`
+
 - [Kerberos Market](http://kerberoispgarcfojevke3m6pcz62i5vq7ftjpyea6tnrpv7vu4anjid.onion) - `http://kerberoispgarcfojevke3m6pcz62i5vq7ftjpyea6tnrpv7vu4anjid.onion`
 
 - [MGM Grand Market](http://duysanj4hc67rd2hkkrmngj66vj25kxhvafnp3qwrcjcyfgwwd4eeiid.onion) - `http://duysanj4hc67rd2hkkrmngj66vj25kxhvafnp3qwrcjcyfgwwd4eeiid.onion`

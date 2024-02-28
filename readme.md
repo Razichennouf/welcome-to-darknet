@@ -48,8 +48,6 @@
 
 - [Dark Matter Market](http://darkmatu4oxdnzpm7j2lohty35nboxdvxz4stfburupf3f4teg6vetyd.onion) - `http://darkmatu4oxdnzpm7j2lohty35nboxdvxz4stfburupf3f4teg6vetyd.onion`
 
-- [Bohemia Market](http://qdyakais73binprxpeeslj7d6tzp5z7kzr33honqexkix76x46itpwad.onion) - `http://qdyakais73binprxpeeslj7d6tzp5z7kzr33honqexkix76x46itpwad.onion`
-
 - [Kingdom Market](http://kingdom45dj7wfumjwej2ztogtladxhpwkpifofyeruwgvq4qaltfhad.onion) - `http://kingdom45dj7wfumjwej2ztogtladxhpwkpifofyeruwgvq4qaltfhad.onion`
 
 - [Go Fish Market](http://gofish4dbb4iofcevmcykeox6jbdu43ee2laagspkyhumvvobtwf2aad.onion) - `http://gofish4dbb4iofcevmcykeox6jbdu43ee2laagspkyhumvvobtwf2aad.onion`
@@ -68,11 +66,11 @@
 
 - [GammaGoblin](http://ujhwc2qcu5r6rwerjvf4yostrmqq5epwlfvyfi25pp376jo6ktccnbid.onion) - `http://ujhwc2qcu5r6rwerjvf4yostrmqq5epwlfvyfi25pp376jo6ktccnbid.onion`
 
-- [HeinekenExpress](http://heinekeqbzrhusz5d36rhew32ayfaqmbhpifkxfrwt6gq655ebihx5yd.onion) - `http://heinekeqbzrhusz5d36rhew32ayfaqmbhpifkxfrwt6gq655ebihx5yd.onion`
-
 - [SmokersCo](http://smokerbae4sv2bywadc7thltca6o63pqe7nonglextdkvm4yfrdp6oqd.onion) - `http://smokerbae4sv2bywadc7thltca6o63pqe7nonglextdkvm4yfrdp6oqd.onion`
 
-- [Roi Businesss](http://roibu2pmnuvw4l62sses6skiujhxubwb6cbyjtqvohynqig5upgqvjad.onion) - `http://roibu2pmnuvw4l62sses6skiujhxubwb6cbyjtqvohynqig5upgqvjad.onion`
+- [Pygmalion Store](http://pygmascvypnxch6a5mgqmurtzwxjxo3pqv2mqnei4yalrxikz4ip5tqd.onion) - `http://pygmascvypnxch6a5mgqmurtzwxjxo3pqv2mqnei4yalrxikz4ip5tqd.onion`
+
+- [The Spitzenkörper](http://spitzgblkde6uskdj7bon7fevke7sompyoxb44mwfl57immd2r7dbaid.onion) - `http://spitzgblkde6uskdj7bon7fevke7sompyoxb44mwfl57immd2r7dbaid.onion`
 
 - [Tribe Seuss](http://eisrgs2gltxr3v6zwby3louej4ive5e2nj4e5weton5sdzvyut7vz3qd.onion) - `http://eisrgs2gltxr3v6zwby3louej4ive5e2nj4e5weton5sdzvyut7vz3qd.onion`
 

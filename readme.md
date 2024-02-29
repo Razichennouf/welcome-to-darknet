@@ -44,6 +44,8 @@
 
 - [DrugHub Market](http://drughub3uuejhj5c7hqrd2fjh7k5y3m6ksg3s3u2upy4byzqmgr7glid.onion) - `http://drughub3uuejhj5c7hqrd2fjh7k5y3m6ksg3s3u2upy4byzqmgr7glid.onion`
 
+- [Super Market](http://superxcceybzhdr6x6xvjslakt53hfcyujnku4g4zy7q6zvvjux3i3id.onion) - `http://superxcceybzhdr6x6xvjslakt53hfcyujnku4g4zy7q6zvvjux3i3id.onion`
+
 - [Ares Market](http://rj25tf2tbwt4no22slufc56weql2em2v2zkorklebk3qj6rbbr6bmoid.onion) - `http://rj25tf2tbwt4no22slufc56weql2em2v2zkorklebk3qj6rbbr6bmoid.onion`
 
 - [Cypher Market](http://6c5qaapy6ejxcu55u3zsti2yqrkhpddo4fyapgtng2b3bpv6jny2btqd.onion) - `http://6c5qaapy6ejxcu55u3zsti2yqrkhpddo4fyapgtng2b3bpv6jny2btqd.onion`

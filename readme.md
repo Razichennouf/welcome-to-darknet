@@ -6,7 +6,7 @@
 
 # Welcome to Darknet
 
-> A curated list of PGP verified `.onion` links of various Onion Services on darknet
+> A curated list of verified `.onion` links of various Onion Services on darknet
 
 <small>
 

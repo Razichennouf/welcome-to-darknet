@@ -14,7 +14,7 @@
 
 </small>
 
-## Crypto Exchanges (BTC TO XMR)
+## Crypto Exchanges
 
 - [Exch Exchange](http://hszyoqnysrl7lpyfms2o5xonhelz2qrz36zrogi2jhnzvpxdzbvzimqd.onion) - `http://hszyoqnysrl7lpyfms2o5xonhelz2qrz36zrogi2jhnzvpxdzbvzimqd.onion`
 

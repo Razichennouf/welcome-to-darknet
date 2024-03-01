@@ -16,11 +16,11 @@
 
 ## Crypto Exchanges
 
+- [Infinity Exchanger](http://exchanger.dhme3vnfeleniirt5nxuhpmjsfq5srp44uyq2jyihhnrxus7ibfqhiqd.onion) - `http://exchanger.dhme3vnfeleniirt5nxuhpmjsfq5srp44uyq2jyihhnrxus7ibfqhiqd.onion`
+
 - [Exch Exchange](http://hszyoqnysrl7lpyfms2o5xonhelz2qrz36zrogi2jhnzvpxdzbvzimqd.onion) - `http://hszyoqnysrl7lpyfms2o5xonhelz2qrz36zrogi2jhnzvpxdzbvzimqd.onion`
 
 - [Swp.cx](http://uicrmrtwpfy4y5kddhlwsbsxzykolx73ure5dhd5dst3pc77lfcmm7id.onion) - `http://uicrmrtwpfy4y5kddhlwsbsxzykolx73ure5dhd5dst3pc77lfcmm7id.onion`
-
-- [Infinity Exchanger](http://exchanger.dhme3vnfeleniirt5nxuhpmjsfq5srp44uyq2jyihhnrxus7ibfqhiqd.onion) - `http://exchanger.dhme3vnfeleniirt5nxuhpmjsfq5srp44uyq2jyihhnrxus7ibfqhiqd.onion`
 
 - [Majestic Bank](http://vyzjtg3peh3rspo67i55pd644o4vh5ygggqhz25c7w3qwfqwuacifoyd.onion) - `http://vyzjtg3peh3rspo67i55pd644o4vh5ygggqhz25c7w3qwfqwuacifoyd.onion`
 

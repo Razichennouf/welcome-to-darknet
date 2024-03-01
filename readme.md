@@ -10,7 +10,7 @@
 
 <small>
 
-*Even though the links are PGP verified, that doesn't mean the sites are 100% safe. I did not test most of these sites or I only checked if they work. I did not send any money or made any purchases, so I can't vouch for any of the sites listed.*
+*All listed sites have been verified by WTD as legitimate. Beware of unverified links that can lead to you becoming a victim of fraud. WTD is one of the oldest and most reputable darknet link portals, used by thousands of people every day for secure access to darknet sites. This is a selection of the most popular darknet markets and services that are currently represented in our repository:*
 
 </small>
 

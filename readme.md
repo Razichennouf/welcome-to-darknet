@@ -4,7 +4,7 @@
 
 </center>
 
-# Welcome to Darknet!
+# Welcome to Darknet
 
 > A curated list of verified `.onion` links of various Onion Services on darknet
 
